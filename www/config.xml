@@ -70,7 +70,7 @@
     <!--
         <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     -->
-    <plugin spec="https://github.com/hazems/cordova-sms-plugin.git" source="git" spec="0.0.1" />
+    <plugin spec="https://github.com/hazems/cordova-sms-plugin.git" source="git" />
     <gap:plugin name="org.apache.cordova.dialogs" />
 
     <!-- Define app icon for each platform. -->
